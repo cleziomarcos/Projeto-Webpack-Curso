@@ -11,9 +11,11 @@
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.82.1",
-    "webpack-cli": "^5.1.1"
+    "webpack-cli": "^5.1.1",
+    "webpack-server": "^0.1.2"
   },
   "dependencies": {
-    "belugs": "^2.0.0"
+    "belugs": "^2.0.0",
+    "bootstrap": "^4.3.1"
   }
 }
